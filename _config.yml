@@ -1,0 +1,14 @@
+layout_spectrum: 0.4045230569317937
+typography_spectrum: 0.43487090477719903
+color:
+  brandStrength: 0.6412284683901817
+  lightness: 0.3179144610185176
+  saturation: 0.9424674140755087
+  rhythmicContrast: 0.6251404520589858
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: BeGenerous
